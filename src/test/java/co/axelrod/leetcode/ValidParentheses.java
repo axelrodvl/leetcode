@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
  */
 public class ValidParentheses {
     @Test
-    void test() {
+    void isValidTest() {
         assertTrue(isValid("(())"));
         assertTrue(isValid("()[]{}"));
         assertFalse(isValid("(]"));
@@ -22,7 +22,7 @@ public class ValidParentheses {
     boolean isValid(String s) {
         char[] stack = new char[s.length()];
         int size = 0;
-        for(int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
             if (c == '(' || c == '{' || c == '[') {
                 stack[size++] = c;

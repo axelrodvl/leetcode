@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
  */
 class ReverseLinkedList {
     @Test
-    void test() {
+    void reverseListTest() {
         ListNode input = createLinkedList(new Integer[]{});
         ListNode expectedOutput = createLinkedList(new Integer[]{});
         ListNode output = reverseList(input);

@@ -18,7 +18,7 @@ public class RomanToInteger {
     }
 
     public int romanToInt(String s) {
-         Map<Character, Integer> mapping = Map.of(
+        Map<Character, Integer> mapping = Map.of(
                 'I', 1,
                 'V', 5,
                 'X', 10,
@@ -30,7 +30,7 @@ public class RomanToInteger {
 
         int result = 0;
 
-        for(int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {
             char current = s.charAt(i);
 
             if (i + 1 < s.length()) {
