@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * https://leetcode.com/problems/valid-parentheses/
  */
-public class ValidParentheses {
+class ValidParentheses {
     @Test
     void isValidTest() {
         assertTrue(isValid("(())"));

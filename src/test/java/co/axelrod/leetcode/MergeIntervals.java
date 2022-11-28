@@ -12,7 +12,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * https://leetcode.com/problems/merge-intervals/
  */
-public class MergeIntervals {
+class MergeIntervals {
     @Test
     void mergeTest() {
         assertTrue(matrixIsEqual(

@@ -7,7 +7,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
  */
-public class BestTimeToBuyAndSellStock {
+class BestTimeToBuyAndSellStock {
     @Test
     void maxProfitTest() {
         assertEquals(5, maxProfit(new int[]{7, 1, 5, 3, 6, 4}));

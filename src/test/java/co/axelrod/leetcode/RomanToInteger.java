@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.assertEquals;
 /**
  * https://leetcode.com/problems/roman-to-integer/
  */
-public class RomanToInteger {
+class RomanToInteger {
     @Test
     void romanToIntTest() {
         assertEquals(3, romanToInt("III"));

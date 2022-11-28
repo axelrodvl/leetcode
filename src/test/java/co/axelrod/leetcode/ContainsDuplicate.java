@@ -11,7 +11,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * https://leetcode.com/problems/contains-duplicate/
  */
-public class ContainsDuplicate {
+class ContainsDuplicate {
     @Test
     void containsDuplicateTest() {
         assertTrue(containsDuplicate(new int[]{1, 2, 3, 1}));

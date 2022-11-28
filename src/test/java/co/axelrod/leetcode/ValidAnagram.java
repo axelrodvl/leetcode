@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * https://leetcode.com/problems/valid-anagram/
  */
-public class ValidAnagram {
+class ValidAnagram {
     @Test
     void isAnagramTest() {
         assertTrue(isAnagram("anagram", "nagaram"));

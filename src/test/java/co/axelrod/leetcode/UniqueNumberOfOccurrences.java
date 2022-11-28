@@ -13,7 +13,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * https://leetcode.com/problems/unique-number-of-occurrences/
  */
-public class UniqueNumberOfOccurrences {
+class UniqueNumberOfOccurrences {
     @Test
     void uniqueOccurrencesTest() {
         assertTrue(uniqueOccurrences(new int[]{1, 2, 2, 1, 1, 3}));

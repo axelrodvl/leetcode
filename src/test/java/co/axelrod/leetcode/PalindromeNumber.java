@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * https://leetcode.com/problems/palindrome-number/
  */
-public class PalindromeNumber {
+class PalindromeNumber {
     @Test
     void isPalindromeTest() {
         assertTrue(isPalindrome(1));

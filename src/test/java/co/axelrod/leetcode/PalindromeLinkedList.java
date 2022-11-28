@@ -10,7 +10,7 @@ import static org.junit.jupiter.api.Assertions.assertTrue;
 /**
  * https://leetcode.com/problems/palindrome-linked-list/
  */
-public class PalindromeLinkedList {
+class PalindromeLinkedList {
     @Test
     void isPalindromeTest() {
         assertTrue(isPalindrome(createLinkedList(new Integer[]{})));
