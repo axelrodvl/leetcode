@@ -8,6 +8,7 @@
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
+- [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
