@@ -30,7 +30,7 @@ public class LinkedListUtil {
         return true;
     }
 
-    public static ListNode createLinkedList(Integer args[]) {
+    public static ListNode createLinkedList(Integer[] args) {
         if (args.length == 0) {
             return null;
         }

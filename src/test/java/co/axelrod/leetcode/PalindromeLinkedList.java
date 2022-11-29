@@ -42,7 +42,7 @@ class PalindromeLinkedList {
 
         // Locating pointer to the "middle" node
         current = head;
-        for(int i = 0; i < count / 2 - 1; i++) {
+        for (int i = 0; i < count / 2 - 1; i++) {
             current = current.next;
         }
 
