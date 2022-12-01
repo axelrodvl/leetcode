@@ -13,3 +13,4 @@
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
+- [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
