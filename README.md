@@ -11,6 +11,7 @@
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/)
 - [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/)
+- [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/)
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/)
