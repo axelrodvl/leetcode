@@ -23,6 +23,7 @@
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)
+- [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)
 - [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)
 - [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/)
