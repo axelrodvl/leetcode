@@ -7,6 +7,7 @@
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/)
