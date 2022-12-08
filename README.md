@@ -23,6 +23,7 @@
 
 ### SQL
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) - [Solution](src/test/java/co/axelrod/leetcode/sql/combine-two-tables.sql)
+- [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) - [Solution](src/test/java/co/axelrod/leetcode/sql/second-highest-salary.sql)
 - [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) - [Solution](src/test/java/co/axelrod/leetcode/sql/customers-who-never-order.sql)
 - [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) - [Solution](src/test/java/co/axelrod/leetcode/sql/delete-duplicate-emails.sql)
 - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) - [Solution](src/test/java/co/axelrod/leetcode/sql/find-customer-referee.sql)
