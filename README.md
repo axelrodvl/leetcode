@@ -7,6 +7,7 @@
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
+- [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
