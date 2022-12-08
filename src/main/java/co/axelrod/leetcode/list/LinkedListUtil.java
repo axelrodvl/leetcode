@@ -6,6 +6,14 @@ public class LinkedListUtil {
     }
 
     public static boolean equalLinkedList(ListNode firstListNode, ListNode secondListNode) {
+        System.out.println("Comparing");
+        System.out.println("---------");
+        System.out.println("List 1:");
+        printLinkedList(firstListNode);
+        System.out.println("---------");
+        System.out.println("List 2:");
+        printLinkedList(secondListNode);
+
         if (firstListNode == null && secondListNode == null) {
             return true;
         }
@@ -44,5 +52,16 @@ public class LinkedListUtil {
         }
 
         return first;
+    }
+
+    public static void printLinkedList(ListNode listNode) {
+        ListNode current = listNode;
+        StringBuilder stringBuilder = new StringBuilder();
+        while (current != null) {
+            stringBuilder.append(current.val);
+            stringBuilder.append(" ");
+            current = current.next;
+        }
+        System.out.println(stringBuilder);
     }
 }
