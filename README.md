@@ -24,6 +24,7 @@
 - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)
 - [595. Big Countries](https://leetcode.com/problems/big-countries/)
 - [627. Swap Salary](https://leetcode.com/problems/swap-salary/)
+- [1148. Article Views I](https://leetcode.com/problems/article-views-i/)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/)
 - [1484. Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)
