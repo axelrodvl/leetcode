@@ -1,6 +1,6 @@
--- https://leetcode.com/problems/patients-with-a-condition/
+# https://leetcode.com/problems/patients-with-a-condition/
 
--- Write your MySQL query statement below
+# Write your MySQL query statement below
 select *
 from patients
 where conditions like '% DIAB1%'

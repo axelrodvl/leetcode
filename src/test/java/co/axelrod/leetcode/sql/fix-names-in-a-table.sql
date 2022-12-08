@@ -1,6 +1,6 @@
--- https://leetcode.com/problems/fix-names-in-a-table/
+# https://leetcode.com/problems/fix-names-in-a-table/
 
--- Write your MySQL query statement below
+# Write your MySQL query statement below
 select user_id,
        concat(
                upper(substring(name, 1, 1)),
