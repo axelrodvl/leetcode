@@ -5,6 +5,7 @@
 - [13. Roman to Integer](https://leetcode.com/problems/roman-to-integer/)
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+- [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/)
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/)
