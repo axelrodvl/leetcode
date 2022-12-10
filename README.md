@@ -23,6 +23,7 @@
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) - [Solution](src/test/java/co/axelrod/leetcode/RemoveAllAdjacentDuplicatesInString.java)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) - [Solution](src/test/java/co/axelrod/leetcode/UniqueNumberOfOccurrences.java)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - [Solution](src/test/java/co/axelrod/leetcode/RunningSumOf1dArray.java)
+- [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) - [Solution](src/test/java/co/axelrod/leetcode/RichestCustomerWealth.java)
 
 ### SQL
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) - [Solution](src/test/java/co/axelrod/leetcode/sql/combine-two-tables.sql)
