@@ -41,6 +41,7 @@
 - [1527. Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/) - [Solution](src/test/java/co/axelrod/leetcode/sql/patients-with-a-condition.sql)
 - [1581. Customer Who Visited but Did Not Make Any Transactions](https://leetcode.com/problems/customer-who-visited-but-did-not-make-any-transactions/) - [Solution](src/test/java/co/axelrod/leetcode/sql/customer-who-visited-but-did-not-make-any-transactions.sql)
 - [1667. Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/) - [Solution](src/test/java/co/axelrod/leetcode/sql/fix-names-in-a-table.sql)
+- [1693. Daily Leads and Partners](https://leetcode.com/problems/daily-leads-and-partners/) - [Solution](src/test/java/co/axelrod/leetcode/sql/daily-leads-and-partners.sql)
 - [1757. Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/) - [Solution](src/test/java/co/axelrod/leetcode/sql/recyclable-and-low-fat-products.sql)
 - [1795. Rearrange Products Table](https://leetcode.com/problems/rearrange-products-table/) - [Solution](src/test/java/co/axelrod/leetcode/sql/rearrange-products-table.sql)
 - [1873. Calculate Special Bonus](https://leetcode.com/problems/calculate-special-bonus/) - [Solution](src/test/java/co/axelrod/leetcode/sql/calculate-special-bonus.sql)
