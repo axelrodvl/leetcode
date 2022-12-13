@@ -44,6 +44,7 @@
 - [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) - [Solution](src/test/java/co/axelrod/leetcode/CountOddNumbersInAnIntervalRange.java)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/) - [Solution](src/test/java/co/axelrod/leetcode/DesignParkingSystem.java)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) - [Solution](src/test/java/co/axelrod/leetcode/RichestCustomerWealth.java)
+- [1720. Decode XORed Array](https://leetcode.com/problems/decode-xored-array/) - [Solution](src/test/java/co/axelrod/leetcode/DecodeXORedArray.java)
 - [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) - [Solution](src/test/java/co/axelrod/leetcode/CheckIfTheSentenceIsPangram.java)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) - [Solution](src/test/java/co/axelrod/leetcode/ConcatenationOfArray.java)
 
