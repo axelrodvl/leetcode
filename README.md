@@ -24,6 +24,7 @@
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseWordsInAStringIII.java)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/) - [Solution](src/test/java/co/axelrod/leetcode/BinarySearch.java)
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) - [Solution](src/test/java/co/axelrod/leetcode/RemoveAllAdjacentDuplicatesInString.java)
+- [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) - [Solution](src/test/java/co/axelrod/leetcode/DefangingAnIPAddress.java)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) - [Solution](src/test/java/co/axelrod/leetcode/UniqueNumberOfOccurrences.java)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - [Solution](src/test/java/co/axelrod/leetcode/RunningSumOf1dArray.java)
 - [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) - [Solution](src/test/java/co/axelrod/leetcode/CountOddNumbersInAnIntervalRange.java)
