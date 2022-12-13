@@ -30,6 +30,7 @@
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseWordsInAStringIII.java)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/) - [Solution](src/test/java/co/axelrod/leetcode/BinarySearch.java)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) - [Solution](src/test/java/co/axelrod/leetcode/MiddleOfTheLinkedList.java)
+- [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - [Solution](src/test/java/co/axelrod/leetcode/UniqueEmailAddresses.java)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) - [Solution](src/test/java/co/axelrod/leetcode/RangeSumOfBST.java)
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) - [Solution](src/test/java/co/axelrod/leetcode/RemoveAllAdjacentDuplicatesInString.java)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) - [Solution](src/test/java/co/axelrod/leetcode/DefangingAnIPAddress.java)
