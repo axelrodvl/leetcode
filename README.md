@@ -44,6 +44,7 @@
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/) - [Solution](src/test/java/co/axelrod/leetcode/DesignParkingSystem.java)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) - [Solution](src/test/java/co/axelrod/leetcode/RichestCustomerWealth.java)
 - [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) - [Solution](src/test/java/co/axelrod/leetcode/CheckIfTheSentenceIsPangram.java)
+- [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) - [Solution](src/test/java/co/axelrod/leetcode/ConcatenationOfArray.java)
 
 ### SQL
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) - [Solution](src/test/java/co/axelrod/leetcode/sql/combine-two-tables.sql)
