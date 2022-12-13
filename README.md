@@ -16,6 +16,7 @@
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Solution](src/test/java/co/axelrod/leetcode/BestTimeToBuyAndSellStock.java)
 - [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) - [Solution](src/test/java/co/axelrod/leetcode/ValidPalindrome.java)
 - [136. Single Number](https://leetcode.com/problems/single-number/) - [Solution](src/test/java/co/axelrod/leetcode/SingleNumber.java)
+- [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - [Solution](src/test/java/co/axelrod/leetcode/IsomorphicStrings.java)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseLinkedList.java)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - [Solution](src/test/java/co/axelrod/leetcode/ContainsDuplicate.java)
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - [Solution](src/test/java/co/axelrod/leetcode/InvertBinaryTree.java)
