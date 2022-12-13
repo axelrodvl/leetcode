@@ -50,6 +50,7 @@
 - [176. Second Highest Salary](https://leetcode.com/problems/second-highest-salary/) - [Solution](src/test/java/co/axelrod/leetcode/sql/second-highest-salary.sql)
 - [183. Customers Who Never Order](https://leetcode.com/problems/customers-who-never-order/) - [Solution](src/test/java/co/axelrod/leetcode/sql/customers-who-never-order.sql)
 - [196. Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/) - [Solution](src/test/java/co/axelrod/leetcode/sql/delete-duplicate-emails.sql)
+- [511. Game Play Analysis I](https://leetcode.com/problems/game-play-analysis-i/) - [Solution](src/test/java/co/axelrod/leetcode/sql/game-play-analysis-i.sql)
 - [584. Find Customer Referee](https://leetcode.com/problems/find-customer-referee/) - [Solution](src/test/java/co/axelrod/leetcode/sql/find-customer-referee.sql)
 - [595. Big Countries](https://leetcode.com/problems/big-countries/) - [Solution](src/test/java/co/axelrod/leetcode/sql/big-countries.sql)
 - [607. Sales Person](https://leetcode.com/problems/sales-person/) - [Solution](src/test/java/co/axelrod/leetcode/sql/sales-person.sql)
