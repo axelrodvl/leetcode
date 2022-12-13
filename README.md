@@ -32,6 +32,7 @@
 - [557. Reverse Words in a String III](https://leetcode.com/problems/reverse-words-in-a-string-iii/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseWordsInAStringIII.java)
 - [680. Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) - [Solution](src/test/java/co/axelrod/leetcode/ValidPalindromeII.java)
 - [704. Binary Search](https://leetcode.com/problems/binary-search/) - [Solution](src/test/java/co/axelrod/leetcode/BinarySearch.java)
+- [832. Flipping an Image](https://leetcode.com/problems/flipping-an-image/) - [Solution](src/test/java/co/axelrod/leetcode/FlippingAnImage.java)
 - [876. Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) - [Solution](src/test/java/co/axelrod/leetcode/MiddleOfTheLinkedList.java)
 - [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - [Solution](src/test/java/co/axelrod/leetcode/UniqueEmailAddresses.java)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) - [Solution](src/test/java/co/axelrod/leetcode/RangeSumOfBST.java)
