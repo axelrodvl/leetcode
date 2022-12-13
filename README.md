@@ -18,6 +18,7 @@
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseLinkedList.java)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - [Solution](src/test/java/co/axelrod/leetcode/ContainsDuplicate.java)
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - [Solution](src/test/java/co/axelrod/leetcode/InvertBinaryTree.java)
+- [231. Power of Two](https://leetcode.com/problems/power-of-two/) - [Solution](src/test/java/co/axelrod/leetcode/PowerOfTwo.java)
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Solution](src/test/java/co/axelrod/leetcode/PalindromeLinkedList.java)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Solution](src/test/java/co/axelrod/leetcode/ValidAnagram.java)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseString.java)
