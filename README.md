@@ -21,6 +21,7 @@
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Solution](src/test/java/co/axelrod/leetcode/PalindromeLinkedList.java)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Solution](src/test/java/co/axelrod/leetcode/ValidAnagram.java)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseString.java)
+- [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseVowelsOfAString.java)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - [Solution](src/test/java/co/axelrod/leetcode/FirstUniqueCharacterInAString.java)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) - [Solution](src/test/java/co/axelrod/leetcode/FizzBuzz.java)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) - [Solution](src/test/java/co/axelrod/leetcode/FibonacciNumber.java)
