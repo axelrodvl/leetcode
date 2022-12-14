@@ -8,6 +8,7 @@
 - [14. Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) - [Solution](src/test/java/co/axelrod/leetcode/LongestCommonPrefix.java)
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Solution](src/test/java/co/axelrod/leetcode/ValidParentheses.java)
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Solution](src/test/java/co/axelrod/leetcode/MergeTwoSortedLists.java)
+- [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Solution](src/test/java/co/axelrod/leetcode/RemoveDuplicatesFromSortedArray.java)
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - [Solution](src/test/java/co/axelrod/leetcode/MergeIntervals.java)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Solution](src/test/java/co/axelrod/leetcode/ClimbingStairs.java)
 - [100. Same Tree](https://leetcode.com/problems/same-tree/) - [Solution](src/test/java/co/axelrod/leetcode/SameTree.java)
