@@ -10,6 +10,7 @@
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Solution](src/test/java/co/axelrod/leetcode/MergeTwoSortedLists.java)
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - [Solution](src/test/java/co/axelrod/leetcode/MergeIntervals.java)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Solution](src/test/java/co/axelrod/leetcode/ClimbingStairs.java)
+- [100. Same Tree](https://leetcode.com/problems/same-tree/) - [Solution](src/test/java/co/axelrod/leetcode/SameTree.java)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [Solution](src/test/java/co/axelrod/leetcode/MaximumDepthOfBinaryTree.java)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Solution](src/test/java/co/axelrod/leetcode/PascalTriangle.java)
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) - [Solution](src/test/java/co/axelrod/leetcode/PascalTriangle2.java)
