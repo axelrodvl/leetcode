@@ -27,6 +27,7 @@
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseString.java)
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseVowelsOfAString.java)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - [Solution](src/test/java/co/axelrod/leetcode/FirstUniqueCharacterInAString.java)
+- [404. Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) - [Solution](src/test/java/co/axelrod/leetcode/SumOfLeftLeaves.java)
 - [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/) - [Solution](src/test/java/co/axelrod/leetcode/FizzBuzz.java)
 - [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) - [Solution](src/test/java/co/axelrod/leetcode/FibonacciNumber.java)
 - [535. Encode and Decode TinyURL](https://leetcode.com/problems/encode-and-decode-tinyurl/) - [Solution](src/test/java/co/axelrod/leetcode/EncodeAndDecodeTinyURL.java)

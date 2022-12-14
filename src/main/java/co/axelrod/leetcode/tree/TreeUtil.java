@@ -20,13 +20,15 @@ public class TreeUtil {
             TreeNode current = queue.poll();
 
             if (index < args.length) {
-                current.left = new TreeNode(args[index++]);
+                current.left = args[index] == null ? null : new TreeNode(args[index]);
                 queue.add(current.left);
+                index++;
             }
 
             if (index < args.length) {
-                current.right = new TreeNode(args[index++]);
+                current.right = args[index] == null ? null : new TreeNode(args[index]);
                 queue.add(current.right);
+                index++;
             }
         }
 
