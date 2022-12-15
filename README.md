@@ -13,6 +13,7 @@
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Solution](src/test/java/co/axelrod/leetcode/ClimbingStairs.java)
 - [100. Same Tree](https://leetcode.com/problems/same-tree/) - [Solution](src/test/java/co/axelrod/leetcode/SameTree.java)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [Solution](src/test/java/co/axelrod/leetcode/MaximumDepthOfBinaryTree.java)
+- [112. Path Sum](https://leetcode.com/problems/path-sum/) - [Solution](src/test/java/co/axelrod/leetcode/PathSum.java)
 - [118. Pascal's Triangle](https://leetcode.com/problems/pascals-triangle/) - [Solution](src/test/java/co/axelrod/leetcode/PascalTriangle.java)
 - [119. Pascal's Triangle II](https://leetcode.com/problems/pascals-triangle-ii/) - [Solution](src/test/java/co/axelrod/leetcode/PascalTriangle2.java)
 - [121. Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) - [Solution](src/test/java/co/axelrod/leetcode/BestTimeToBuyAndSellStock.java)

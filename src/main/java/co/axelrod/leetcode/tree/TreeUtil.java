@@ -9,6 +9,10 @@ public class TreeUtil {
     }
 
     public static TreeNode createBinaryTree(Integer[] args) {
+        if (args.length == 0) {
+            return null;
+        }
+
         int index = 0;
 
         TreeNode root = new TreeNode(args[index++]);
@@ -18,6 +22,10 @@ public class TreeUtil {
 
         while (!queue.isEmpty()) {
             TreeNode current = queue.poll();
+            if (current == null) {
+                index++;
+                continue;
+            }
 
             if (index < args.length) {
                 current.left = args[index] == null ? null : new TreeNode(args[index]);
