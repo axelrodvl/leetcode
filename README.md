@@ -48,6 +48,7 @@
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - [Solution](src/test/java/co/axelrod/leetcode/RunningSumOf1dArray.java)
 - [1512. Number of Good Pairs](https://leetcode.com/problems/number-of-good-pairs/) - [Solution](src/test/java/co/axelrod/leetcode/NumberOfGoodPairs.java)
 - [1523. Count Odd Numbers in an Interval Range](https://leetcode.com/problems/count-odd-numbers-in-an-interval-range/) - [Solution](src/test/java/co/axelrod/leetcode/CountOddNumbersInAnIntervalRange.java)
+- [1528. Shuffle String](https://leetcode.com/problems/shuffle-string/) - [Solution](src/test/java/co/axelrod/leetcode/ShuffleString.java)
 - [1603. Design Parking System](https://leetcode.com/problems/design-parking-system/) - [Solution](src/test/java/co/axelrod/leetcode/DesignParkingSystem.java)
 - [1662. Check If Two String Arrays are Equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/) - [Solution](src/test/java/co/axelrod/leetcode/CheckIfTwoStringArraysAreEquivalent.java)
 - [1672. Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth/) - [Solution](src/test/java/co/axelrod/leetcode/RichestCustomerWealth.java)
