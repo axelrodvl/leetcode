@@ -26,6 +26,7 @@
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/) - [Solution](src/test/java/co/axelrod/leetcode/PowerOfTwo.java)
 - [234. Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) - [Solution](src/test/java/co/axelrod/leetcode/PalindromeLinkedList.java)
 - [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/) - [Solution](src/test/java/co/axelrod/leetcode/ValidAnagram.java)
+- [326. Power of Three](https://leetcode.com/problems/power-of-three/) - [Solution](src/test/java/co/axelrod/leetcode/PowerOfThree.java)
 - [344. Reverse String](https://leetcode.com/problems/reverse-string/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseString.java)
 - [345. Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseVowelsOfAString.java)
 - [387. First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) - [Solution](src/test/java/co/axelrod/leetcode/FirstUniqueCharacterInAString.java)
