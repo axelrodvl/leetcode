@@ -57,6 +57,7 @@
 - [1832. Check if the Sentence Is Pangram](https://leetcode.com/problems/check-if-the-sentence-is-pangram/) - [Solution](src/test/java/co/axelrod/leetcode/CheckIfTheSentenceIsPangram.java)
 - [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/) - [Solution](src/test/java/co/axelrod/leetcode/ConcatenationOfArray.java)
 - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) - [Solution](src/test/java/co/axelrod/leetcode/FindIfPathExistsInGraph.java)
+- [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) - [Solution](src/test/java/co/axelrod/leetcode/Convert1DArrayInto2DArray.java)
 - [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) - [Solution](src/test/java/co/axelrod/leetcode/FindTheDifferenceOfTwoArrays.java)
 
 ### SQL
