@@ -21,6 +21,7 @@
 - [136. Single Number](https://leetcode.com/problems/single-number/) - [Solution](src/test/java/co/axelrod/leetcode/SingleNumber.java)
 - [205. Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) - [Solution](src/test/java/co/axelrod/leetcode/IsomorphicStrings.java)
 - [206. Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) - [Solution](src/test/java/co/axelrod/leetcode/ReverseLinkedList.java)
+- [208. Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/) - [Solution](src/test/java/co/axelrod/leetcode/ImplementTriePrefixTree.java)
 - [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) - [Solution](src/test/java/co/axelrod/leetcode/ContainsDuplicate.java)
 - [226. Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) - [Solution](src/test/java/co/axelrod/leetcode/InvertBinaryTree.java)
 - [231. Power of Two](https://leetcode.com/problems/power-of-two/) - [Solution](src/test/java/co/axelrod/leetcode/PowerOfTwo.java)
