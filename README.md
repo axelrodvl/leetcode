@@ -43,6 +43,7 @@
 - [929. Unique Email Addresses](https://leetcode.com/problems/unique-email-addresses/) - [Solution](src/test/java/co/axelrod/leetcode/UniqueEmailAddresses.java)
 - [938. Range Sum of BST](https://leetcode.com/problems/range-sum-of-bst/) - [Solution](src/test/java/co/axelrod/leetcode/RangeSumOfBST.java)
 - [1047. Remove All Adjacent Duplicates In String](https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/) - [Solution](src/test/java/co/axelrod/leetcode/RemoveAllAdjacentDuplicatesInString.java)
+- [1065. Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/) - [Solution](src/test/java/co/axelrod/leetcode/IndexPairsOfAString.java)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) - [Solution](src/test/java/co/axelrod/leetcode/DefangingAnIPAddress.java)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) - [Solution](src/test/java/co/axelrod/leetcode/UniqueNumberOfOccurrences.java)
 - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) - [Solution](src/test/java/co/axelrod/leetcode/NumberOfStudentsDoingHomeworkAtAGivenTime.java)
