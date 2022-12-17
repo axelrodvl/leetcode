@@ -46,6 +46,7 @@
 - [1065. Index Pairs of a String](https://leetcode.com/problems/index-pairs-of-a-string/) - [Solution](src/test/java/co/axelrod/leetcode/IndexPairsOfAString.java)
 - [1108. Defanging an IP Address](https://leetcode.com/problems/defanging-an-ip-address/) - [Solution](src/test/java/co/axelrod/leetcode/DefangingAnIPAddress.java)
 - [1207. Unique Number of Occurrences](https://leetcode.com/problems/unique-number-of-occurrences/) - [Solution](src/test/java/co/axelrod/leetcode/UniqueNumberOfOccurrences.java)
+- [1268. Search Suggestions System](https://leetcode.com/problems/search-suggestions-system/) - [Solution](src/test/java/co/axelrod/leetcode/SearchSuggestionsSystem.java)
 - [1450. Number of Students Doing Homework at a Given Time](https://leetcode.com/problems/number-of-students-doing-homework-at-a-given-time/) - [Solution](src/test/java/co/axelrod/leetcode/NumberOfStudentsDoingHomeworkAtAGivenTime.java)
 - [1470. Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) - [Solution](src/test/java/co/axelrod/leetcode/ShuffleTheArray.java)
 - [1480. Running Sum of 1d Array](https://leetcode.com/problems/running-sum-of-1d-array/) - [Solution](src/test/java/co/axelrod/leetcode/RunningSumOf1dArray.java)
