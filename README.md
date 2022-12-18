@@ -63,6 +63,7 @@
 - [1971. Find if Path Exists in Graph](https://leetcode.com/problems/find-if-path-exists-in-graph/) - [Solution](src/test/java/co/axelrod/leetcode/FindIfPathExistsInGraph.java)
 - [2022. Convert 1D Array Into 2D Array](https://leetcode.com/problems/convert-1d-array-into-2d-array/) - [Solution](src/test/java/co/axelrod/leetcode/Convert1DArrayInto2DArray.java)
 - [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) - [Solution](src/test/java/co/axelrod/leetcode/FindTheDifferenceOfTwoArrays.java)
+- [2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) - [Solution](src/test/java/co/axelrod/leetcode/CountPairsOfSimilarStrings.java)
 
 ### SQL
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) - [Solution](src/test/java/co/axelrod/leetcode/sql/combine-two-tables.sql)
