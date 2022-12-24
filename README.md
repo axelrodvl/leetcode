@@ -66,6 +66,7 @@
 - [2215. Find the Difference of Two Arrays](https://leetcode.com/problems/find-the-difference-of-two-arrays/) - [Solution](src/test/java/co/axelrod/leetcode/FindTheDifferenceOfTwoArrays.java)
 - [2506. Count Pairs Of Similar Strings](https://leetcode.com/problems/count-pairs-of-similar-strings/) - [Solution](src/test/java/co/axelrod/leetcode/CountPairsOfSimilarStrings.java)
 - [2511. Maximum Enemy Forts That Can Be Captured](https://leetcode.com/problems/maximum-enemy-forts-that-can-be-captured/) - [Solution](src/test/java/co/axelrod/leetcode/MaximumEnemyFortsThatCanBeCaptured.java)
+- [2512. Reward Top K Students](https://leetcode.com/problems/reward-top-k-students/) - [Solution](src/test/java/co/axelrod/leetcode/RewardTopKStudents.java)
 
 ### SQL
 - [175. Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) - [Solution](src/test/java/co/axelrod/leetcode/sql/combine-two-tables.sql)
