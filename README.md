@@ -11,6 +11,7 @@
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Solution](src/test/java/co/axelrod/leetcode/RemoveDuplicatesFromSortedArray.java)
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - [Solution](src/test/java/co/axelrod/leetcode/MergeIntervals.java)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Solution](src/test/java/co/axelrod/leetcode/ClimbingStairs.java)
+- [75. Sort Colors](https://leetcode.com/problems/sort-colors/) - [Solution](src/test/java/co/axelrod/leetcode/SortColors.java)
 - [100. Same Tree](https://leetcode.com/problems/same-tree/) - [Solution](src/test/java/co/axelrod/leetcode/SameTree.java)
 - [104. Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) - [Solution](src/test/java/co/axelrod/leetcode/MaximumDepthOfBinaryTree.java)
 - [112. Path Sum](https://leetcode.com/problems/path-sum/) - [Solution](src/test/java/co/axelrod/leetcode/PathSum.java)
