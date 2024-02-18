@@ -9,6 +9,7 @@
 - [20. Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) - [Solution](src/test/java/co/axelrod/leetcode/ValidParentheses.java)
 - [21. Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) - [Solution](src/test/java/co/axelrod/leetcode/MergeTwoSortedLists.java)
 - [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) - [Solution](src/test/java/co/axelrod/leetcode/RemoveDuplicatesFromSortedArray.java)
+- [27. Remove Element](https://leetcode.com/problems/remove-element/) - [Solution](src/test/java/co/axelrod/leetcode/RemoveElement.java)
 - [35. Search Insert Position](https://leetcode.com/problems/search-insert-position/) - [Solution](src/test/java/co/axelrod/leetcode/SearchInsertPosition.java)
 - [56. Merge Intervals](https://leetcode.com/problems/merge-intervals/) - [Solution](src/test/java/co/axelrod/leetcode/MergeIntervals.java)
 - [70. Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) - [Solution](src/test/java/co/axelrod/leetcode/ClimbingStairs.java)
